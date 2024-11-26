@@ -1,0 +1,26 @@
+{
+  "name": "flexion-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "flexion-js",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSLogix/flexion-js.git"
+  },
+  "author": "Samandar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSLogix/flexion-js/issues"
+  },
+  "homepage": "https://github.com/JSLogix/flexion-js#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.0"
+  }
+}
